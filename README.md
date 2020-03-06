@@ -18,7 +18,7 @@ numpy, pandas, seaborn, glob, os
 
 File Descriptions
 
-data: Folder contains data files of Airbnb-Seattle data, following the name-conventions of "listings.csv"
+It contains data-files of Airbnb-Seattle data, following with the name-conventions of "listings.csv"
 Airbnb_Seattle_1.ipynb: Jupyter-Notebook being used for main analysis
 
 
